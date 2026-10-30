@@ -47,7 +47,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ---
 
-## 🔗 Risorse correlate
+## 🔗 Seguimi
 
 - 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
