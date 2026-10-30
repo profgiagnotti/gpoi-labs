@@ -29,8 +29,8 @@ GPOI-labs/
 
 ### Modulo 1 — Microeconomia
 
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
+| Laboratorio | Modulo | Lezione | Argomento | Livello |
+|---|---|---|---|---|
 | [Esercizi di microeconomia](./Modulo-1/Esercizi-Economia-Svolti-Guidati.md) | Modulo-1 | [Lezione-tutte](https://profgiagnotti.altervista.org/corsi-e-lezioni/) | Domanda, Offerta | ⭐ Base |
 
 
