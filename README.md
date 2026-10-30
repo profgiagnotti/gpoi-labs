@@ -19,8 +19,6 @@ GPOI-labs/
 │
 ├── Anno-1/                         ← Microeconomia
     ├── Modulo-1/                   ✅ disponibile
-    ├── Modulo-2/                   🔜 in arrivo
-    └── Modulo-3/                   🔜 in arrivo
 
 
 ```
@@ -33,7 +31,7 @@ GPOI-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Esercizi di microeconomia](./Modulo-1/Esercizi-Economia-Svolti-Guidati.md) | Modulo-1 | Lezione-tutte | Domanda, Offerta | ⭐ Base |
+| [Esercizi di microeconomia](./Modulo-1/Esercizi-Economia-Svolti-Guidati.md) | Modulo-1 | [Lezione-tutte](https://profgiagnotti.altervista.org/corsi-e-lezioni/) | Domanda, Offerta | ⭐ Base |
 
 
 ---
@@ -51,8 +49,10 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Risorse correlate
 
-- 🌐 **Sito:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
-- ▶️ **YouTube:** [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
+- ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
 
 ---
 
